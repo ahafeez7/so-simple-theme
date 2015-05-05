@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Override Author Byline Test Post"
-excerpt: "An article to test overriding the default site author."
-categories: articles
+title: "MINED Research Post"
+excerpt: "An article on nano indentation"
 tags: [sample-post, readability, test]
 author: billy_rick
 comments: true
 share: true
+categories: articles
 image:
   feature: so-simple-sample-image-7.jpg
   credit: WeGraphics
